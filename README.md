@@ -37,3 +37,4 @@ Jika mendekati -1, itu menunjukkan bahwa titik data mungkin lebih baik ditempatk
 3. Domain Knowledge untuk penyesuaian dan tujuan bisnis.
 
 ## **RFM Result**
+![RFM](https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_11_FinalProject/blob/main/img/RFM%20Result.png)
