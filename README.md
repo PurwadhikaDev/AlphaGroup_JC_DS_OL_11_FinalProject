@@ -4,6 +4,8 @@ This project was carried out by Alpha's Team:
 2. Ahmad Baihaqi
 3. Athian Istafa Yahya
 
+
+![datset]https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_11_FinalProject/blob/main/img/hubungan%20tiap%20dataset%20olist.png
 ## **Business Problem Understanding**
 #### **Context**
 Olist merupakan salah satu perusahaan marketplace terbesar di Brazil yang bergerak di segmen e-Commerce. Olist menghubungkan penjual e-commerce dengan customers secara mudah menggunakan single contract. Dengan demikian, para penjual dapat menjual produk mereka dan mengirimkan produk tersebut kepada customer melalui Olist logistics partners.
@@ -51,4 +53,4 @@ Melakukan pembelian dengan frekuensi kecil, namun masih memiliki potensi untuk m
 Customer yang memiliki nilai rfm terkecil, dan berpotensi menjadi customer yang churn.
 
 ## **Clustering with K-Means Result**
-
+![K-Means](https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_11_FinalProject/blob/main/img/K-Means%20Result.png)
