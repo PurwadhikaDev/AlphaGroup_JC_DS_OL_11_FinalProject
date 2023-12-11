@@ -38,3 +38,17 @@ Jika mendekati -1, itu menunjukkan bahwa titik data mungkin lebih baik ditempatk
 
 ## **RFM Result**
 ![RFM](https://github.com/PurwadhikaDev/AlphaGroup_JC_DS_OL_11_FinalProject/blob/main/img/RFM%20Result.png)
+
+**Customer Segmentation menggunakan RFM dibagi berdasarkan** :
+
+1. **VVIP - Can't Loose Them** : 
+Pelanggan yang sebelumnya sering melakukan pembelian secara terus menerus dan mengeluarkan sejumlah besar uang, namun belakangan ini mereka sudah lama tidak melakukan pembelian. Penting untuk meraih kembali minat dari kelompok pelanggan ini di perusahaan. Grup ini mencerminkan sebagian pelanggan yang seiring waktu kehilangan minat terhadap perusahaan. Oleh karena itu, perusahaan perlu melakukan upaya untuk mendapatkan kembali perhatian dari kelompok pelanggan ini.
+2. **Loyal Customers** : 
+Melakukan pembelian dalam waktu dekat, terus menerus, dan mengeluarkan banyak uang, Mereka adalah top custemer yang mendukung perusahaan. Hubungan baik antar Olist dan kelompok customer ini perlu dijaga agar tetap terjalin dengan baik.
+3. **Need Attention** : 
+Melakukan pembelian dengan frekuensi kecil, namun masih memiliki potensi untuk menjadi loyal customers, menghabiskan uang dengan nominal tidak terlalu besar. Kelompok ini membutuhkan tindakan agar mereka dapat merasakan bahwa perusahaan (Olist) dapat menawarkan kondisi terbaik dan memenuhi kebutuhan mereka.
+4. **Hibernating - Almost Lost** : 
+Customer yang memiliki nilai rfm terkecil, dan berpotensi menjadi customer yang churn.
+
+## **Clustering with K-Means Result**
+
