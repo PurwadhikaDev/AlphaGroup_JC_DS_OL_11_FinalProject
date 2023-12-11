@@ -108,3 +108,8 @@ Berdasarkan conclusion diatas, kami merekomendasikan agar perusahaan melakukan p
 3. Follow-Up Personalisasi: Kirimkan email personalisasi atau pesan terkait produk berdasarkan sejarah pembelian mereka untuk menunjukkan perhatian dan membantu memandu keputusan pembelian.
 4. Diskon Masa Depan: Berikan kupon atau diskon untuk penggunaan di pembelian berikutnya sebagai insentif tambahan untuk tetap menjadi pelanggan setia.
 5. Konten Edukasi: Berikan konten edukatif atau panduan penggunaan produk untuk membantu mereka memahami nilai tambah dari produk yang mereka beli.
+
+
+
+Link Tableau :
+[Tableau](https://public.tableau.com/app/profile/ahmad.baihaqi/viz/AlphasTeamOlisteCommerceDashboard/DashboardEDA?publish=yes)
